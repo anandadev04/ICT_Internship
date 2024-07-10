@@ -1,0 +1,18 @@
+a{
+    color: brown;
+    text-decoration: none;
+}
+th{
+    color: green;
+}
+table,th,td{
+    border: 1px solid;
+    border-collapse: collapse;
+}
+#para1{
+    color: rgb(179, 179, 219);
+}
+
+img{
+    border-radius: 50%;
+}
